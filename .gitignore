@@ -1,1 +1,5 @@
-(images contain only source/config files like HTML and image files, no build artifacts, dependencies, or temp files to ignore)
+# Image files that were deleted
+images/azteca.webp
+images/bacardi.webp
+images/chanel.webp
+images/douglas.webp
